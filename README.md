@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshir16 - Rishabh Joshi
-- 👀 I’m a frontend web developer
+- 🧑‍💻 I’m a frontend web developer 
 - 🌱 I’m currently learning ... React
 
 - 📫 How to reach me ...
