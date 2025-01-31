@@ -36,7 +36,7 @@ Check out all my repositories [here](https://github.com/joshir16?tab=repositorie
 - Exploring **Next.js** for SSR and static site generation
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/rishabhj16/)
+- 💼 LinkedIn: [Rishabh Joshi](https://www.linkedin.com/in/rishabhj16/)
 - 🌎 Portfolio: [under construction)
 - ✉️ Email: joshir838@gmail.com  
 
