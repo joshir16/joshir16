@@ -32,8 +32,8 @@ Check out all my repositories [here](https://github.com/joshir16?tab=repositorie
 
 ## 🌱 Currently Learning
 - Advanced **React.js** features (Hooks, Context API)
-- Backend development with **Node.js & Express.js**
 - Exploring **Next.js** for SSR and static site generation
+- Backend development with **Node.js & Express.js**
 
 ## 📫 Let's Connect!
 - 💼 LinkedIn: [Rishabh Joshi](https://www.linkedin.com/in/rishabhj16/)
