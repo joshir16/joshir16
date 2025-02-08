@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Rishabh Joshi 👋
 
 ## 🚀 About Me
-🎨 Frontend Web Developer | 💡 JavaScript Enthusiast | 🌐 Passionate about Web Design  
+🎨 Frontend Web Developer | ⚛️ Learning & Mastering React.js | 💡 JavaScript Enthusiast | 🌐 Passionate about Web Design  
 
 I'm a frontend developer with experience in creating dynamic and responsive web applications. I love building projects that solve real-world problems.
 
