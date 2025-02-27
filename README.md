@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
  
 ![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
 -->
-# Hi there, I'm Rishabh Joshi 👋
+# Hello World, I'm Rishabh Joshi 👋
 
 ## 🚀 About Me
 🎨 Frontend Web Developer | ⚛️ Learning & Mastering React.js | 💡 JavaScript Enthusiast | 🌐 Passionate about Web Design  
