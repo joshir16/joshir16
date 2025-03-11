@@ -20,8 +20,7 @@ I'm a frontend developer with experience in creating dynamic and responsive web 
 ## 📌 Projects
 Here are some of my featured projects:
 - 🎦 [Movie App](https://github.com/joshir16/usePopcorn) - React application that allows users to explore movies, rate them, and manage their watched movies list. By leveraging the OMDB API 
-- 🌤️ [Weather App](https://github.com/joshir16/weatherApp) - Fetches real-time weather data using OpenWeather API 🌍
-- 🕹️ [JavaScript Games](https://github.com/joshir16/javascript-games) - A collection of fun browser-based games 🎮
+- 🌤️ [Weather App](https://github.com/joshir16/weatherApp) - A simple and responsive weather application built using React and the OpenWeather API. with 🌡️ Real-Time Weather Updates, 5-Day Forecast, Search Functionality and Save your preferred locations for easy access with clean and intuitive UI.
 <!--- 🖥️ [Portfolio Website](https://github.com/joshir16/portfolio) - My personal developer portfolio 💼 --> 
 
 Check out all my repositories [here](https://github.com/joshir16?tab=repositories).
