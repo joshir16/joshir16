@@ -35,6 +35,7 @@ Check out all my repositories [here](https://github.com/joshir16?tab=repositorie
 - Backend development with **Node.js & Express.js**
 
 ## 📫 Let's Connect!
+- 📜 dev.to: [joshi16](https://dev.to/joshi16)
 - 💼 LinkedIn: [Rishabh Joshi](https://www.linkedin.com/in/rishabhj16/)
 - 🌎 Portfolio: [under construction)
 - ✉️ Email: joshir838@gmail.com  
