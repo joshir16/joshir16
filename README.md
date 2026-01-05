@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 I'm a frontend developer with experience in creating dynamic and responsive web applications. I love building projects that solve real-world problems.
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frontend:** React.js, SASS, Tailwind CSS
+- **Frontend:** React.js, JavaScript (ES6+), TypeScript, HTML5, Tailwind CSS, CSS3, SASS 
 - **Tools & Libraries:** Git, GitHub
 - **UI & Design:** Responsive Web Design, Flexbox, Grid, Figma
 
