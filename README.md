@@ -29,9 +29,8 @@ Check out all my repositories [here](https://github.com/joshir16?tab=repositorie
 - 👨‍💻 Completed 40+ personal projects and continuously learning new technologies.
 
 ## 🌱 Currently Learning
-- Advanced **React.js** features (Hooks, Context API)
+- Advanced **React.js** features and patterns.
 - Exploring **Next.js** for SSR and static site generation
-- Backend development with **Node.js & Express.js**
 
 ## 📫 Let's Connect!
 - 📜 dev.to: [joshi16](https://dev.to/joshi16)
